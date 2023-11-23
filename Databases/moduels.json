@@ -1,0 +1,182 @@
+[
+  {
+      "course": "RS101",
+      "week": "Week 0 - Intro",
+      "name": "Introduction to Rocket Propulsion",
+      "items": [
+          {
+              "type": "button",
+              "text": "LEARNING OBJECTIVES",
+              "padding": "8%",
+              "icon": true
+          },
+          {
+              "type": "button",
+              "text": "Introduction to the Course",
+              "padding": "15%",
+              "icon": true
+          }
+          
+      ]
+  },
+  {
+      "course": "RS101",
+      "week": "Week 1 - HTML",
+      "name": "Introduction to Rocket Propulsion",
+      "items": [
+          {
+              "type": "button",
+              "text": "LEARNING OBJECTIVES",
+              "padding": "8%",
+              "icon": true
+          },
+          {
+              "type": "button",
+              "text": "Learn how to create user interfaces with HTML",
+              "padding": "15%",
+              "icon": true
+          }
+         
+      ]
+  },
+  {
+      "course": "RS101",
+      "week": "Week 2 - Javascript",
+      "name": "Introduction to Rocket Propulsion",
+      "items": [
+          {
+              "type": "button",
+              "text": "LEARNING OBJECTIVES",
+              "padding": "8%",
+              "icon": true
+          },
+          {
+              "type": "button",
+              "text": "Learn how to bring HTML into JavaScript",
+              "padding": "15%",
+              "icon": true
+          }
+         
+      ]
+  },
+  {
+      "course": "RS102",
+      "week": "Week 0 - Intro",
+      "name": "Introduction to Rocket Propulsion",
+      "items": [
+          {
+              "type": "button",
+              "text": "LEARNING OBJECTIVES",
+              "padding": "8%",
+              "icon": true
+          },
+          {
+              "type": "button",
+              "text": "Introduction to the Course",
+              "padding": "15%",
+              "icon": true
+          }
+          
+      ]
+  },
+  {
+      "course": "RS102",
+      "week": "Week 1 - HTML",
+      "name": "Introduction to Rocket Propulsion",
+      "items": [
+          {
+              "type": "button",
+              "text": "LEARNING OBJECTIVES",
+              "padding": "8%",
+              "icon": true
+          },
+          {
+              "type": "button",
+              "text": "Learn how to create user interfaces with HTML",
+              "padding": "15%",
+              "icon": true
+          }
+         
+      ]
+  },
+  {
+      "course": "RS102",
+      "week": "Week 2 - Javascript",
+      "name": "Introduction to Rocket Propulsion",
+      "items": [
+          {
+              "type": "button",
+              "text": "LEARNING OBJECTIVES",
+              "padding": "8%",
+              "icon": true
+          },
+          {
+              "type": "button",
+              "text": "Learn how to bring HTML into JavaScript",
+              "padding": "15%",
+              "icon": true
+          }
+         
+      ]
+  },
+  {
+      "course": "RS103",
+      "week": "Week 0 - Intro",
+      "name": "Introduction to Rocket Propulsion",
+      "items": [
+          {
+              "type": "button",
+              "text": "LEARNING OBJECTIVES",
+              "padding": "8%",
+              "icon": true
+          },
+          {
+              "type": "button",
+              "text": "Introduction to the Course",
+              "padding": "15%",
+              "icon": true
+          }
+          
+      ]
+  },
+  {
+      "course": "RS103",
+      "week": "Week 1 - HTML",
+      "name": "Introduction to Rocket Propulsion",
+      "items": [
+          {
+              "type": "button",
+              "text": "LEARNING OBJECTIVES",
+              "padding": "8%",
+              "icon": true
+          },
+          {
+              "type": "button",
+              "text": "Learn how to create user interfaces with HTML",
+              "padding": "15%",
+              "icon": true
+          }
+         
+      ]
+  },
+  {
+      "course": "RS103",
+      "week": "Week 2 - Javascript",
+      "name": "Introduction to Rocket Propulsion",
+      "items": [
+          {
+              "type": "button",
+              "text": "LEARNING OBJECTIVES",
+              "padding": "8%",
+              "icon": true
+          },
+          {
+              "type": "button",
+              "text": "Learn how to bring HTML into JavaScript",
+              "padding": "15%",
+              "icon": true
+          }
+         
+      ]
+  }
+]
