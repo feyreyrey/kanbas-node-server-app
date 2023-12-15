@@ -10,6 +10,16 @@ function CourseRoutes(app) {
     const courses = Database.courses;
     res.send(courses);
   });
+  app.get("/api/courses/:id", (req, res) => {
+    const { id } = req.params; // Extract the id from request parameters
+    const course = Database.courses.find(c => c._id === id); // Find the course
+  
+    if (course) {
+      res.send(course); // Send the found course
+    } else {
+      res.status(404).send('Course not found'); // Send a 404 response if the course is not found
+    }
+  });
   app.delete("/api/courses/:id", (req, res) => {
     const { id } = req.params;
     Database.courses = Database.courses
